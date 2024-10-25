@@ -14,13 +14,9 @@ Contains helpful AWS whitepapers useful for AWS data engineering
   Very useful for real time analytics pipelines in general!
 
 ## Data Warehousing
-[Datawarehousing on AWS](https://docs.aws.amazon.com/whitepapers/latest/data-warehousing-on-aws/data-warehousing-on-aws.html?did=wp_card&trk=wp_card)
+[Datawarehousing on AWS](https://docs.aws.amazon.com/whitepapers/latest/data-warehousing-on-aws/data-warehousing-on-aws.html?did=wp_card&trk=wp_card) (Redshift documentations gave me a lot more insights, may be becasue this paper is a bit old!)
 
-  Redshift documentations gave me a lot more insights, may be becasue this paper is a bit old!
-
-[Database migration with Redshift as Target](https://docs.aws.amazon.com/whitepapers/latest/optimizing-dms-with-amazon-redshift/optimizing-dms-with-amazon-redshift.html?did=wp_card&trk=wp_card)
-
-  Contains lots of insights for the database migration from on-prem to AWS!
+[Database migration with Redshift as Target](https://docs.aws.amazon.com/whitepapers/latest/optimizing-dms-with-amazon-redshift/optimizing-dms-with-amazon-redshift.html?did=wp_card&trk=wp_card)(Contains lots of insights for the database migration from on-prem to AWS!)
 
 
 ## Storage
