@@ -66,3 +66,5 @@ These resources are not required for certification but helps a lot in desgining 
 
 [AWS reinvent: Deep Dive into S3](https://www.youtube.com/watch?v=sYDJYqvNeXU)
 
+[AWS re:Invent 2023 - Building and optimizing a data lake on Amazon S3](https://www.youtube.com/watch?v=mpQa_Zm1xW8)
+
