@@ -50,7 +50,9 @@ The best strategy is to read through the paper once, make notes of all extra con
 
 
 ## VIDEOS
-[AWS Reinvent:Kinesis+Lambda](https://www.youtube.com/watch?v=HjoQllOWRmM): Lots of insights on AWS lambda when used a event source mapping
+[AWS Reinvent:Kinesis+Lambda](https://www.youtube.com/watch?v=HjoQllOWRmM): Lots of insights on AWS lambda when used as an event source mapping.
+
+  - AWS reinvent videos are very helpful to deepen the knowledge and to understand industrial usecases.
 
 [Be a better dev](https://www.youtube.com/@BeABetterDev): An invaluable resource dedicated for learning AWS, both in theory and practically. 
 
