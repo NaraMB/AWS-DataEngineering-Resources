@@ -8,7 +8,7 @@ Contains helpful AWS whitepapers useful for AWS data engineering
 
 [Building operationally efficient data pipelines with Glue](https://docs.aws.amazon.com/whitepapers/latest/aws-glue-best-practices-build-efficient-data-pipeline/aws-glue-best-practices-build-efficient-data-pipeline.html?did=wp_card&trk=wp_card) (Focuses on architectural best practices and the most interesting for system design)
 
-## Streaming data pipelines
+## Streaming pipelines architecture
 [Build Modern Data Streaming Architectures on AWS](https://docs.aws.amazon.com/whitepapers/latest/build-modern-data-streaming-analytics-architectures/build-modern-data-streaming-analytics-architectures.html?did=wp_card&trk=wp_card)
 
   Very useful for real time analytics pipelines in general!
@@ -39,6 +39,14 @@ Not very useful for certification but lots of insights for containerizations in 
 [Containers on AWS](https://docs.aws.amazon.com/whitepapers/latest/containers-on-aws/containers-on-aws.html)
 
 [Running Containerized Microservices on AWS] (https://docs.aws.amazon.com/whitepapers/latest/running-containerized-microservices/welcome.html?did=wp_card&trk=wp_card)
+
+
+# How I read them
+Definitely read the papers from the first 4 sections. ANd there are lots of references to other concepts that could give some deep understanding.
+
+For example, while reading one of the papers, I encountered AWS Lake formation that I didn't know enough about! So, I made it a point to understand AWS lake formation well!
+
+The best strategy is to read through the paper once, make notes of all extra concepts that you're not aware of. Later, read those non-aware concepts and read the whitepaper again (quickly this time) to connect the dots! 
 
 
 
