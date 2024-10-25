@@ -36,7 +36,7 @@ Not very useful for certification but lots of insights for containerizations in 
 
 [Containers on AWS](https://docs.aws.amazon.com/whitepapers/latest/containers-on-aws/containers-on-aws.html)
 
-[Running Containerized Microservices on AWS] (https://docs.aws.amazon.com/whitepapers/latest/running-containerized-microservices/welcome.html?did=wp_card&trk=wp_card)
+[Running Containerized Microservices on AWS](https://docs.aws.amazon.com/whitepapers/latest/running-containerized-microservices/welcome.html?did=wp_card&trk=wp_card)
 
 
 # How I read them
