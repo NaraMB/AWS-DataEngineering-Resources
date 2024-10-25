@@ -15,7 +15,9 @@ Contains helpful AWS whitepapers useful for AWS data engineering
 
 ## Data Warehousing
 [Datawarehousing on AWS](https://docs.aws.amazon.com/whitepapers/latest/data-warehousing-on-aws/data-warehousing-on-aws.html?did=wp_card&trk=wp_card)
+
 [Database migration with Redshift as Target](https://docs.aws.amazon.com/whitepapers/latest/optimizing-dms-with-amazon-redshift/optimizing-dms-with-amazon-redshift.html?did=wp_card&trk=wp_card)
+
   Contains lots of insights for the database migration from on-prem to AWS!
 
 
@@ -24,7 +26,19 @@ Contains helpful AWS whitepapers useful for AWS data engineering
 
 [Best Practices Design Patterns: Optimizing Amazon S3 Performance](https://docs.aws.amazon.com/whitepapers/latest/s3-optimizing-performance-best-practices/welcome.html?did=wp_card&trk=wp_card)
 
-These are the 2 best papers on S3 I loved the most!
+These are the 2 best papers on S3 that I loved the most!
+
+[Best practices for migration from RDBMS to DynamoDB](https://docs.aws.amazon.com/whitepapers/latest/best-practices-for-migrating-from-rdbms-to-dynamodb/welcome.html?did=wp_card&trk=wp_card)
+
+  The only dynamoDB paper, I read going into exam!
+
+
+## Containers
+Not very useful for certification but lots of insights for containerizations in AWS and even in general! I have just skimmed through these papers.
+
+[Containers on AWS](https://docs.aws.amazon.com/whitepapers/latest/containers-on-aws/containers-on-aws.html)
+
+[Running Containerized Microservices on AWS] (https://docs.aws.amazon.com/whitepapers/latest/running-containerized-microservices/welcome.html?did=wp_card&trk=wp_card)
 
 
 
