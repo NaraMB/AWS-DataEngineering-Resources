@@ -54,5 +54,15 @@ The best strategy is to read through the paper once, make notes of all extra con
 
   - AWS reinvent videos are very helpful to deepen the knowledge and to understand industrial usecases.
 
-[Be a better dev](https://www.youtube.com/@BeABetterDev): An invaluable resource dedicated for learning AWS, both in theory and practice 
+[Be a better dev](https://www.youtube.com/@BeABetterDev): An invaluable resource dedicated for learning AWS, both in theory and practice.
+
+
+## Advanced Concepts
+These resources are not required for certification but helps a lot in desgining systems with AWS
+
+[AWS reinvent:DynamoDB under the hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
+
+[AWS reinvent:Deep Dive into DynamoDB](https://www.youtube.com/watch?v=ld-xoehkJuU&t=37s)
+
+[AWS reinvent: Deep Dive into S3](https://www.youtube.com/watch?v=sYDJYqvNeXU)
 
