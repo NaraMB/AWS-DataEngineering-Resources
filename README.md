@@ -54,5 +54,5 @@ The best strategy is to read through the paper once, make notes of all extra con
 
   - AWS reinvent videos are very helpful to deepen the knowledge and to understand industrial usecases.
 
-[Be a better dev](https://www.youtube.com/@BeABetterDev): An invaluable resource dedicated for learning AWS, both in theory and practically. 
+[Be a better dev](https://www.youtube.com/@BeABetterDev): An invaluable resource dedicated for learning AWS, both in theory and practice 
 
