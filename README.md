@@ -42,7 +42,7 @@ Not very useful for certification but lots of insights for containerizations in 
 
 
 ### How I utilized whitepapers
-Definitely read the papers from the first 4 sections. ANd there are lots of references to other concepts that could give some deep understanding.
+Definitely read the papers from the first 4 sections. And there will be references to other concepts that could give some deep understanding.
 
 For example, while reading one of the papers, I encountered AWS Lake formation that I didn't know enough about! So, I made it a point to understand AWS lake formation well!
 
@@ -53,6 +53,7 @@ The best strategy is to read through the paper once, make notes of all extra con
 [AWS Reinvent:Kinesis+Lambda](https://www.youtube.com/watch?v=HjoQllOWRmM): Lots of insights on AWS lambda when used as an event source mapping.
 
   - AWS reinvent videos are very helpful to deepen the knowledge and to understand industrial usecases.
+  - I cannot list all reinvent videos. Watch based on your areas of interest, preferably the latest ones.
 
 [Be a better dev](https://www.youtube.com/@BeABetterDev): An invaluable resource dedicated for learning AWS, both in theory and practice.
 
